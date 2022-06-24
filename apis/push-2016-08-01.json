@@ -245,6 +245,9 @@
 					"AndroidXiaoMiNotifyTitle": {
 						"type": "string"
 					},
+                    "AndroidNotificationChannel": {
+                        "type": "string"
+                    },
 					"AndroidXiaoMiNotifyBody": {
 						"type": "string"
 					},

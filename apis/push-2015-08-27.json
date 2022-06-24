@@ -355,6 +355,9 @@
 					"XiaomiActivity": {
 						"type": "string"
 					},
+                    "AndroidNotificationChannel": {
+                        "type": "string"
+                    },
 					"AndroidOpenUrl": {
 						"type": "string"
 					},
